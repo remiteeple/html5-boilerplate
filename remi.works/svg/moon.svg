@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="moon.svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 264.58332 264.58334"
+   height="1000"
+   width="1000">
+  <defs
+     id="defs2">
+    <filter
+       id="filter283"
+       inkscape:label="Invert"
+       style="color-interpolation-filters:sRGB;">
+      <feColorMatrix
+         id="feColorMatrix281"
+         result="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0.21 0.72 0.07 1 0 " />
+      <feColorMatrix
+         id="feColorMatrix287"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0.21 0.72 0.07 1 0 "
+         id="feColorMatrix289" />
+      <feColorMatrix
+         id="feColorMatrix291"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0.21 0.72 0.07 1 0 "
+         id="feColorMatrix293" />
+      <feColorMatrix
+         id="feColorMatrix295"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0.21 0.72 0.07 1 0 "
+         id="feColorMatrix297" />
+      <feColorMatrix
+         id="feColorMatrix299"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         in="fbSourceGraphic"
+         result="color2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0.21 0.72 0.07 1 0 "
+         id="feColorMatrix301" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     inkscape:pagecheckerboard="true"
+     inkscape:snap-page="true"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox="true"
+     units="px"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="1912"
+     inkscape:window-height="1027"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="467.60727"
+     inkscape:cx="225.1997"
+     inkscape:zoom="0.70710678"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       d=""
+       id="path164"
+       style="fill:#000000;stroke-width:2.93981" />
+    <path
+       d=""
+       id="path303"
+       style="fill:#000000;stroke-width:0.264583" />
+    <path
+       d=""
+       id="path285"
+       style="fill:#000000;stroke-width:0.264583" />
+    <path
+       d=""
+       id="path277"
+       style="fill:#000000;stroke-width:0.264583" />
+    <path
+       id="path367"
+       d="M 125.93217,264.17621 C 78.208628,258.78553 37.606314,229.97464 17.122427,186.9661 -3.0582858,144.59414 0.50782621,93.562375 26.373829,54.576807 42.526454,30.231342 66.431589,11.224218 92.799886,1.7610015 L 97.706727,0 95.961078,3.8847651 C 87.297761,23.163948 83.477795,40.562416 83.477795,60.741146 c 0,40.192954 16.602825,76.916274 46.390485,102.609834 34.51358,29.76994 80.14196,40.50336 123.63636,29.08367 3.66433,-0.96208 6.78008,-1.63156 6.92393,-1.48771 0.14377,0.14377 -1.63156,3.40293 -3.94533,7.24241 -21.29689,35.34023 -55.00518,58.26418 -95.56867,64.9932 -7.75628,1.28669 -27.43872,1.84575 -34.9824,0.99366 z"
+       style="fill:#ffffff;stroke-width:0.679269" />
+  </g>
+</svg>

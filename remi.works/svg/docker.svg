@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="docker.svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 264.58332 264.58334"
+   height="1000"
+   width="1000">
+  <defs
+     id="defs2">
+    <filter
+       id="filter283"
+       inkscape:label="Invert"
+       style="color-interpolation-filters:sRGB;">
+      <feColorMatrix
+         id="feColorMatrix281"
+         result="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0.21 0.72 0.07 1 0 " />
+      <feColorMatrix
+         id="feColorMatrix287"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0.21 0.72 0.07 1 0 "
+         id="feColorMatrix289" />
+      <feColorMatrix
+         id="feColorMatrix291"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0.21 0.72 0.07 1 0 "
+         id="feColorMatrix293" />
+      <feColorMatrix
+         id="feColorMatrix295"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0.21 0.72 0.07 1 0 "
+         id="feColorMatrix297" />
+      <feColorMatrix
+         id="feColorMatrix299"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         in="fbSourceGraphic"
+         result="color2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0.21 0.72 0.07 1 0 "
+         id="feColorMatrix301" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     inkscape:pagecheckerboard="true"
+     inkscape:snap-page="true"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox="true"
+     units="px"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="1912"
+     inkscape:window-height="1027"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="467.60727"
+     inkscape:cx="225.1997"
+     inkscape:zoom="0.70710678"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       d=""
+       id="path164"
+       style="fill:#000000;stroke-width:2.93981" />
+    <path
+       d=""
+       id="path303"
+       style="fill:#000000;stroke-width:0.264583" />
+    <path
+       d=""
+       id="path285"
+       style="fill:#000000;stroke-width:0.264583" />
+    <path
+       d=""
+       id="path277"
+       style="fill:#000000;stroke-width:0.264583" />
+    <path
+       id="path423"
+       d="M 16.024504,216.44349 C 10.117173,215.04234 4.852802,210.73051 1.9986139,204.95545 L 0,200.91154 V 132.24656 63.58158 L 1.9986139,59.537672 C 4.358965,54.761819 7.4048809,51.804625 12.450466,49.390226 l 3.443747,-1.647892 H 132.21436 248.53448 l 4.04393,1.998616 c 4.77585,2.360353 7.73305,5.406255 10.14745,10.451854 l 1.64789,3.443743 0.1642,66.755693 c 0.12255,49.82072 0.006,67.4949 -0.4607,69.66963 -1.42098,6.62569 -5.3578,11.65519 -11.49878,14.6903 l -4.04383,1.99862 -115.26062,0.0823 C 67.40656,216.88014 17.161072,216.71314 16.024464,216.44357 Z M 124.01168,183.40804 c 21.48043,-4.46349 39.41038,-15.61005 53.12087,-33.02378 l 1.7664,-2.24349 28.96241,-0.0376 c 28.50357,-0.0373 28.91205,-0.0525 25.78358,-0.96793 -5.20198,-1.52216 -11.1739,-4.23953 -15.44541,-7.02798 -3.55651,-2.32173 -4.11014,-2.53252 -4.87929,-1.8577 -3.13203,2.74788 -9.98776,4.56994 -17.24821,4.58408 -4.58913,0.008 -10.61974,-0.74939 -11.8101,-1.48506 -0.38625,-0.23873 0.60896,-2.76056 2.91292,-7.38128 l 3.49959,-7.01871 2.6771,-0.01 c 6.42807,-0.022 13.6307,-2.57663 17.92653,-6.35796 2.19808,-1.9348 5.67794,-6.50406 5.67794,-7.45543 0,-0.21769 -1.60928,-0.95141 -3.5762,-1.63052 -3.00161,-1.03635 -4.64023,-1.23481 -10.19879,-1.23525 -3.64242,-3e-4 -7.33783,0.15959 -8.21201,0.35523 -1.57955,0.35355 -1.59669,0.33218 -2.76294,-3.44374 -1.49949,-4.85497 -4.34959,-9.640035 -8.33435,-13.992696 l -3.15021,-3.441039 -1.01144,1.249069 c -3.09294,3.819638 -5.12291,9.989956 -5.13234,15.600276 -0.008,4.5634 0.95841,7.99541 3.38493,12.025 l 1.83938,3.05455 -2.56832,1.30147 c -3.58033,1.8143 -9.28509,3.30832 -14.30403,3.74615 l -4.25246,0.37093 v -5.36647 -5.36648 h -5.29807 -5.29806 v 5.29806 5.29806 h -5.29809 -5.29806 v -5.29806 -5.29806 h -5.29807 -5.29808 v 5.29806 5.29806 h -5.29806 -5.29809 v -5.29806 -5.29806 h -5.29806 -5.29807 v 5.29806 5.29806 h -5.29808 -5.298065 v -5.29806 -5.29806 h -5.298064 -5.298084 v 5.29806 5.29806 h -5.298064 -5.298065 v -5.29806 -5.29806 h -5.298084 -5.298066 v 5.29806 5.29806 h -7.658197 -7.658195 l -0.359669,1.9172 c -0.518531,2.76402 0.04746,9.91455 1.138398,14.38197 0.848634,3.4752 1.046922,3.81625 2.043324,3.5144 2.503262,-0.75835 10.284095,-5.09916 12.647855,-7.05605 l 2.537649,-2.10083 1.873014,1.27105 c 4.543412,3.08325 7.189491,3.66673 16.6281,3.66673 9.448381,0 12.083346,-0.58256 16.649163,-3.68103 l 1.89409,-1.28535 1.89409,1.28535 c 4.56582,3.09847 7.20079,3.68103 16.64917,3.68103 9.44836,0 12.08332,-0.58256 16.64916,-3.68103 l 1.89409,-1.28535 1.89409,1.28535 c 4.56582,3.09847 7.20078,3.68103 16.64915,3.68103 9.44838,0 12.08334,-0.58256 16.64916,-3.68103 l 1.89409,-1.28535 1.89439,1.28555 c 1.0419,0.70708 2.35316,1.43119 2.91394,1.60917 1.42861,0.45343 1.30614,0.94793 -1.11943,4.51972 l -2.13897,3.14977 h -35.73213 -35.73215 l -0.33214,1.32332 c -0.56827,2.26418 0.0853,3.09058 2.17567,2.75135 1.76745,-0.28683 1.84493,-0.23182 1.84493,1.30968 0,2.26796 -2.99258,5.21178 -5.29807,5.21178 -2.25971,0 -5.30619,-2.95031 -5.2793,-5.11262 0.0244,-1.96339 1.10193,-3.86475 2.68857,-4.74416 1.06461,-0.59007 -3.05389,-0.70479 -25.867566,-0.72057 l -27.133797,-0.018 1.074241,2.51658 c 1.426462,3.34172 4.242952,8.34341 6.265105,11.12595 1.59819,2.19914 1.707356,2.25158 4.67943,2.24716 8.854854,-0.014 24.089449,-2.217 29.474338,-4.26372 1.489481,-0.5661 3.114124,-1.02942 3.610364,-1.02956 1.643186,-4.8e-4 3.669856,1.24487 4.435562,2.7256 0.959943,1.85634 0.955293,3.29704 -0.01602,5.17665 -1.396207,2.69999 -9.682303,5.23221 -22.093466,6.75172 l -7.468608,0.91441 1.43908,1.14747 c 3.7892,3.02141 13.666059,7.02937 20.682641,8.39288 6.654223,1.2931 6.910453,1.31018 16.424036,1.09478 6.95715,-0.15759 10.46184,-0.50629 15.40123,-1.53265 z M 95.100375,100.45813 v -5.29808 h -5.298064 -5.298084 v 5.29808 5.29807 h 5.298084 5.298064 z m 21.192275,0 v -5.29808 h -5.29806 -5.29807 v 5.29808 5.29807 h 5.29807 5.29806 z m 21.1923,0 v -5.29808 h -5.29807 -5.29808 v 5.29808 5.29807 h 5.29808 5.29807 z m 0,-21.192293 v -5.298064 h -5.29807 -5.29808 v 5.298064 5.298084 h 5.29808 5.29807 z"
+       style="fill:#ffffff;stroke-width:0.529806" />
+  </g>
+</svg>
