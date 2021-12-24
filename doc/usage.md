@@ -45,12 +45,14 @@ A basic HTML5 Boilerplate site initially looks something like this:
 ├── favicon.ico
 ├── humans.txt
 ├── icon.png
+├── icon.svg
 ├── index.html
 ├── package.json
 ├── robots.txt
 ├── site.webmanifest
 ├── tile.png
-└── tile-wide.png
+├── tile-wide.png
+└── webpack.config.js
 ```
 
 What follows is a general overview of each major part and how to use them.
@@ -108,9 +110,6 @@ need to integrate this starting HTML with your setup.
 
 Make sure that you update the URLs for the referenced CSS and JavaScript if you
 modify the directory structure at all.
-
-If you are using Google Universal Analytics, make sure that you edit the
-corresponding snippet at the bottom to include your analytics ID.
 
 ### humans.txt
 
